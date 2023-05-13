@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Bishwo B Bista. I build things on the web.
 
 <!--
 **bishwobista/bishwobista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
