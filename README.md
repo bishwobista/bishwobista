@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Bishwo B Bista. I build things on the web.
 # 💫 About Me:
 I enjoy making things on the web. <br>I enjoy playing chess, drawing and playing piano
-https://holopin.io/@bishwobista
-
+[https://holopin.io/@bishwobista
+](https://holopin.me/bishwobista)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishwobista) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bishwobista_) 
