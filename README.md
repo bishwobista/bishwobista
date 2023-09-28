@@ -1,8 +1,7 @@
 ### Hi there 👋, I am Bishwo B Bista. I build things on the web.
 # 💫 About Me:
 I enjoy making things on the web. <br>I enjoy playing chess, drawing and playing piano
-[https://holopin.io/@bishwobista
-](https://holopin.me/bishwobista)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishwobista) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bishwobista_) 
@@ -13,6 +12,9 @@ I enjoy making things on the web. <br>I enjoy playing chess, drawing and playing
 ![](https://github-readme-stats.vercel.app/api?username=bishwobista&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bishwobista&theme=great-gatsby&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bishwobista&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+# Badges
+[![An image of @bishwobista's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bishwobista)](https://holopin.io/@bishwobista)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=bishwobista_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
