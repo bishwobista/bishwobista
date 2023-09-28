@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Bishwo B Bista. I build things on the web.
 # 💫 About Me:
-I enjoy making things on the web. <br>I am currently learning ReactJS. <br>I enjoy playing chess, drawing and playing piano
+I enjoy making things on the web. <br>I enjoy playing chess, drawing and playing piano
+https://holopin.io/@bishwobista
 
 
 ## 🌐 Socials:
