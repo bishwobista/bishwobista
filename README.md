@@ -13,7 +13,7 @@
 
 # Badges
 [![An image of @bishwobista's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bishwobista)](https://holopin.io/@bishwobista)
-
+<!--
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=bishwobista_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
