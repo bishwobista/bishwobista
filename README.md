@@ -14,7 +14,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bishwobista&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # Badges
-[![An image of @bishwobista's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bishwobista)](https://holopin.io/@bishwobista)
+[![An image of @bishwobista's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=bishwobista)](https://holopin.io/@bishwobista)
+
+
 
 <!--
 ## 🐦 Latest Tweet
